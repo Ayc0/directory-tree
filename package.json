@@ -1,0 +1,8 @@
+{
+  "name": "@linkcs/directory-tree",
+  "version": "0.1.0",
+  "description": "Convert Directory Tree to JS object",
+  "main": "src/index.js",
+  "author": "Ayc0",
+  "license": "MIT"
+}
